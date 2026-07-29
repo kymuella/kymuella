@@ -1,6 +1,6 @@
 # Hey, I'm Kyle 👋
 
-I'm a Nanotechnology Engineering student at the University of Waterloo.
+I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 
 ## About Me
 - 🔧 Automation Engineering Intern @ Status (S26)
@@ -24,6 +24,6 @@ I'm a Nanotechnology Engineering student at the University of Waterloo.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-## *Learning*
+## *Currently Learning...*
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
