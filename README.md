@@ -24,6 +24,6 @@ I'm a Nanotechnology Engineering student at the University of Waterloo.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-## Learning
+## *Learning*
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
