@@ -8,6 +8,10 @@ I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 - 🤖 Building automation tools and Slack bots
 - 📍 Ontario, Canada
 
+## Connect with me!!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A7DB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-muella/) [![Email](https://img.shields.io/badge/EMAIL-0A7DB8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muellaky7@gmail.com)
+
 ## Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 )
