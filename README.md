@@ -9,8 +9,10 @@ I'm a Nanotechnology Engineering student at the University of Waterloo.
 - 📍 Ontario, Canada
 
 ## Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-![MATLAB](https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 # 
