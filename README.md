@@ -30,4 +30,4 @@ I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 
 ## *Currently Learning...*
 
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
