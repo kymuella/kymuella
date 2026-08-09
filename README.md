@@ -29,5 +29,6 @@ I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 
 
 [## *Currently Learning...*
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
