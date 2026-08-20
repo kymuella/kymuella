@@ -8,6 +8,11 @@ I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 - 🤖 Building automation tools and Slack bots
 - 📍 Ontario, Canada
 
+# Few things outside of my career:
+- I love personal fitness / working out
+- I read a lot of webnovels/manhwa/manhua/mangas
+- Big marvel fan
+
 ## Connect with me!!
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A7DB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-muella/) [![Email](https://img.shields.io/badge/EMAIL-0A7DB8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muellaky7@gmail.com)
