@@ -8,7 +8,7 @@ I'm a 2nd Year Nanotechnology Engineering student at the University of Waterloo.
 - 🤖 Building automation tools and Slack bots
 - 📍 Ontario, Canada
 
-# Few things outside of my career:
+## Few things outside of my career:
 - I love personal fitness / working out
 - I read a lot of webnovels/manhwa/manhua/mangas
 - Big marvel fan
